@@ -4,7 +4,7 @@ Proyecto de barco The Moby-Dick para competencia de carrera naval . El repositor
 
 ---
 
-<img width="1200" height="1599" alt="campeon carrera naval" src="https://github.com/user-attachments/assets/457fce76-9789-48af-8121-a56759552b46" />
+<img width="1241" height="1600" alt="Trofeo y medalla categoria basica" src="https://github.com/user-attachments/assets/23962dc2-db08-4841-8fbc-14ee305995aa" />
 
 
 ## 💡 Componentes Utilizados
